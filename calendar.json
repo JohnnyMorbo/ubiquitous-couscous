@@ -1,0 +1,186 @@
+{
+  "PHRASES": [
+    "Did you know that",
+    "because of",
+    "?\nApparently",
+    "\nWhile it might seem like trivia, it"
+  ],
+  "FACTS": [
+    [
+      "the",
+      [
+        "Fall",
+        "Spring"
+      ],
+      "equinox"
+    ],
+    [
+      "the",
+      [
+        "Winter",
+        "Summer"
+      ],
+      [
+        "Solstice",
+        "Olympics"
+      ]
+    ],
+    [
+      "the",
+      [
+        "earliest",
+        "latest"
+      ],
+      [
+        "sunrise",
+        "sunset"
+      ]
+    ],
+    [
+      "Daylight",
+      [
+        "Saving",
+        "Savings"
+      ],
+      "time"
+    ],
+    [
+      "leap",
+      [
+        "day",
+        "year"
+      ]
+    ],
+    "Easter",
+    [
+      "the",
+      [
+        "harvest",
+        "super",
+        "blood"
+      ],
+      "moon"
+    ],
+    "Toyota Truck Month",
+    "Shark Week"
+  ],
+  "FACTS_SECOND": [
+    [
+      "happens",
+      [
+        "earlier",
+        "later",
+        "at the wrong time"
+      ],
+      "every year"
+    ],
+    [
+      "drifts out of sync with the",
+      [
+        [
+          "sun",
+          "moon",
+          "zodiac"
+        ],
+        [
+          [
+            "gregorian",
+            "mayan",
+            "lunar",
+            "iPhone"
+          ],
+          "calendar"
+        ],
+        [
+          "atomic clock in Colorado"
+        ]
+      ]
+    ],
+    [
+      "might",
+      [
+        "not happen",
+        "happen twice"
+      ],
+      "this year"
+    ]
+  ],
+  "BECAUSES": [
+    [
+      "time zone legislation in",
+      [
+        "Indiana",
+        "Arizona",
+        "Russia"
+      ]
+    ],
+    "a decree by the pope in the 1500s",
+    [
+      [
+        "precession",
+        "libration",
+        "nutation",
+        "libation",
+        "eccentricity",
+        "obliquity"
+      ],
+      "of the",
+      [
+        [
+          "moon",
+          "sun",
+          "Earth's axis",
+          "equator",
+          "prime meridian"
+        ],
+        [
+          [
+            "international date",
+            "mason-dixon"
+          ],
+          "line"
+        ]
+      ]
+    ],
+    "magnetic field reversal",
+    [
+      "an arbitrary decision by",
+      [
+        "Benjamin Franklin",
+        "Isaac Newton",
+        "FDR"
+      ]
+    ]
+  ],
+  "APPARENTLYS": [
+    "it causes a predictable increase in car accidents.",
+    "that's why we have leap seconds.",
+    "scientists are really worried.",
+    [
+      "it was even more extreme during the",
+      [
+        "Bronze Age.",
+        "Ice Age.",
+        "Cretaceous.",
+        "1990s."
+      ]
+    ],
+    [
+      "there's a proposal to fix it, but it",
+      [
+        "will never happen.",
+        "actually makes things worse.",
+        "is stalled in congress.",
+        "might be unconstitutional."
+      ]
+    ],
+    "it's getting worse and no one knows why."
+  ],
+  "TRIVIA": [
+    "causes huge headaches for software developers.",
+    "is taken advantage of by high-speed traders.",
+    "triggered the 2003 Northeast blackout.",
+    "has to be corrected for by GPS satellites.",
+    "is now recognized as a major cause of World War I."
+  ]
+}
