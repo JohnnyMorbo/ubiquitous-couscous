@@ -63,6 +63,7 @@ class Calendar
       stepper(@parts['APPARENTLYS'].sample)
     ].join
     return output + "#{@parts['PHRASES'][3]} #{@parts['TRIVIA'].sample}" if rand(5).zero?
+    
     return output
   end
 
