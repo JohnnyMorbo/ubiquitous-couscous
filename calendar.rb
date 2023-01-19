@@ -51,7 +51,6 @@ class Calendar
   end
 
   def assembler
-    # parts = JSON.parse(File.read("#{__dir__}/calendar.json"))
     output = [
       @parts['PHRASES'][0],
       stepper(@parts['FACTS'].sample),
